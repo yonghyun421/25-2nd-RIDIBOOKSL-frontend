@@ -13,11 +13,16 @@
 - **Frontend**: 김수민, 김용현, 박세연, 이나영
 - **Backend**: 이기용, 이정아
 
+## 프로젝트 선정이유
+- 최근 다양한 e-book 컨텐츠들이 생산되고 수요도 지속적으로 증가함에 따라 커져가고 있는 e-컨텐츠 시장에서 큰 점유율로 시장을 선도하고 있는 리디북스 사이트를 모티브로 하였습니다. 
+- 단순히 e-컨텐츠를 판매만 하는 것이 아닌 다양한 방법으로 e-컨텐츠들을 소개하고 누구나 쉽게 접할 수 있도록 다양한 검색기능이나 미리보기 기능들을 제공하는 것이 매력적인 포인트라고 생각하였습니다.
+- 사용자가 쉽게 이용할 수 있는 심플하면서도 직관적인 깔끔한 UI가 매력적이라고 생각하였습니다.
+
 
 ## Technology
 - **Frontend**: `HTML/CSS` `JSX` `React(CRA)` `Styled-components` (Library: `React-router-DOM`, `React-pdf`, `React-slick`)
 - **Backend**: `Python`, `Django Web Framework`, `AWS`, `MySQL`
-- **Common**: 버전관리 `Git & GitHub`, 소통 `Slack`,  일정관리 [Trello](https://trello.com/b/mb9yJISu/mecook)
+- **Common**: 버전관리 `Git & GitHub`, 소통 `Slack`,  일정관리 [Trello](https://trello.com/b/zSVgJt0Z/%EB%A6%AC%EB%94%94%EB%B6%81%EC%8A%AC%EB%B6%81%EC%8A%ACridibooksl)
 
 ## Main Function
 - **소셜 로그인**: 카카오톡을 이용한 소셜 로그인 기능
@@ -34,3 +39,10 @@
 - 김용현: 소셜 로그인, 카테고리, 카트 & 위시리스트, 미리보기 뷰어
 - 박세연: Footer, 메인페이지
 - 이나영: Header, 리스트, 검색, 작가 페이지
+
+## Reference
+
+- 이 프로젝트는 [리디북스](https://ridibooks.com/) 사이트를 참조하여 학습목적으로 만들었습니다.
+- 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
+- 이 프로젝트에서 사용하고 있는 사진 대부분은 위코드에서 구매한 것이므로 해당 프로젝트 외부인이 사용할 수 없습니다.
+
